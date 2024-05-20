@@ -80,6 +80,9 @@ print("RMSE = ",rmse)
 ### Training Set Graph:
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/ee34961f-54c1-4eb0-a4a5-e19c9a0764d7)
 ### Test set Graph:
+![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/a8414a13-19dc-469c-94d4-65c16828cb0c)
+
+### Values of MSE, MAE, RMSE:
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/10f4ba60-bb82-4b20-ae97-0b12a4015b10)
 
 ## Result:
