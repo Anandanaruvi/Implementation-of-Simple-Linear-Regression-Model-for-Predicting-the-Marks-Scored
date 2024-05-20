@@ -21,7 +21,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: A.ARUVI.
 RegisterNumber:  212222230014.
 */
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -49,6 +48,13 @@ y_pred
 plt.scatter(x_train,y_train,color="yellow")
 plt.plot(x_train,regressor.predict(x_train),color="purple")
 plt.title("Hours VS Scores (Training Set)")
+plt.xlabel("Hours")
+plt.ylabel("Scores")
+plt.show()
+
+plt.scatter(x_test,y_test,color="yellow")
+plt.plot(x_test,regressor.predict(x_test),color="purple")
+plt.title("Hours vs scores(Test Data Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
