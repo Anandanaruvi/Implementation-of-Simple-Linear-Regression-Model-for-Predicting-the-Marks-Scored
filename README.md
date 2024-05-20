@@ -70,15 +70,15 @@ print("RMSE = ",rmse)
 ## Output:
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/742a3fe1-9919-42c0-963e-da801be3f267)
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/926ed654-dd74-434a-9ded-746b0d2e4b46)
-
+### Values of x:
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/b7d93d93-9478-40d5-8898-69ba7e9d3e1f)
-
+### Values of y:
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/25902326-3c53-45cd-aeb3-a1dcb8aef9ee)
-
+### Values of y_train:
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/bb838b72-5de7-49df-9ae5-8e16eda68328)
-
+### Values of y_pred:
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/ee34961f-54c1-4eb0-a4a5-e19c9a0764d7)
-
+### Training Set Graph:
 ![image](https://github.com/Anandanaruvi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120443233/10f4ba60-bb82-4b20-ae97-0b12a4015b10)
 
 ## Result:
